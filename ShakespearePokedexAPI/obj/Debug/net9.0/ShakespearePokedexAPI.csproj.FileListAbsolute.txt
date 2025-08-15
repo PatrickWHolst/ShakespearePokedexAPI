@@ -34,3 +34,4 @@ C:\Users\patri\source\repos\ShakespearePokedexAPI\ShakespearePokedexAPI\obj\Debu
 C:\Users\patri\source\repos\ShakespearePokedexAPI\ShakespearePokedexAPI\obj\Debug\net9.0\ShakespearePokedexAPI.pdb
 C:\Users\patri\source\repos\ShakespearePokedexAPI\ShakespearePokedexAPI\obj\Debug\net9.0\ShakespearePokedexAPI.genruntimeconfig.cache
 C:\Users\patri\source\repos\ShakespearePokedexAPI\ShakespearePokedexAPI\obj\Debug\net9.0\ref\ShakespearePokedexAPI.dll
+C:\Users\patri\source\repos\ShakespearePokedexAPI\ShakespearePokedexAPI\obj\Debug\net9.0\ShakespearePokedexAPI.sourcelink.json

@@ -19,6 +19,8 @@ builder.Services.AddHttpClient<ITranslationService, TranslationService>(client =
 {
     client.BaseAddress = new Uri("https://api.funtranslations.com/");
 });
+
+
 builder.Services.AddMemoryCache();
 builder.Services.AddControllers();
 

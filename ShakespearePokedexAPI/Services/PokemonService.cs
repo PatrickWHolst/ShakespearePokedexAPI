@@ -1,22 +1,23 @@
 ﻿using ShakespearePokedexAPI.Models;
+using ShakespearePokedexAPI.Interfaces;
 using System.Text.Json;
-
-
 
 namespace ShakespearePokedexAPI.Services
 {
-
     /// <summary>
-    /// implementation of the IPokemonService interface for fetching Pokémon species data.
+    /// Implementation of the IPokemonService interface for fetching Pokémon species data.
     /// </summary>
     public class PokemonService : IPokemonService
     {
         private readonly HttpClient _client;
-        public PokemonService(HttpClient client)
+        private readonly ITranslationService _translationService;
+
+        public PokemonService(HttpClient client, ITranslationService translationService)
         {
             _client = client;
+            _translationService = translationService;
         }
-        
+
         public async Task<PokeSpecies> GetPokemonSpeciesAsync(string nameOrId)
         {
             // Call the PokeAPI to get the Pokémon species data by name or ID
@@ -40,14 +41,15 @@ namespace ShakespearePokedexAPI.Services
             // Clean up the flavor text by removing newlines and form feeds
             flavorText = flavorText.Replace("\n", " ").Replace("\f", " ").Trim();
 
+            // Translate the flavor text to Shakespearean English
+            var translatedText = await _translationService.TranslateToShakespeareAsync(flavorText);
+
             return new PokeSpecies
             {
                 Id = root.GetProperty("id").GetInt32(),
                 Name = root.GetProperty("name").GetString(),
-                FlavorText = flavorText
+                FlavorText = translatedText
             };
-
         }
     }
-
 }
