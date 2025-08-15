@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Pokedex-Et-Tu-Bulbasaur/1.0.0": {
+        "runtime": {
+          "Pokedex-Et-Tu-Bulbasaur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pokedex-Et-Tu-Bulbasaur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

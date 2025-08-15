@@ -1,0 +1,400 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC480C56-5A59-4739-943A-274226CCE993}|ShakespearePokedexAPI.Tests\\ShakespearePokedexAPI.Tests.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi.tests\\controllers\\pokemoncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC480C56-5A59-4739-943A-274226CCE993}|ShakespearePokedexAPI.Tests\\ShakespearePokedexAPI.Tests.csproj|solutionrelative:shakespearepokedexapi.tests\\controllers\\pokemoncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi\\shakespearepokedexapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:shakespearepokedexapi\\shakespearepokedexapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:shakespearepokedexapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:shakespearepokedexapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:shakespearepokedexapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi\\services\\translationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:shakespearepokedexapi\\services\\translationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi\\services\\pokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:shakespearepokedexapi\\services\\pokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi\\models\\pokespecies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:shakespearepokedexapi\\models\\pokespecies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi\\interfaces\\itranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:shakespearepokedexapi\\interfaces\\itranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi\\interfaces\\ipokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:shakespearepokedexapi\\interfaces\\ipokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:shakespearepokedexapi\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:shakespearepokedexapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi\\shakespearepokedexapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:shakespearepokedexapi\\shakespearepokedexapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi\\shakespearepokedexapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:shakespearepokedexapi\\shakespearepokedexapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E957ED-E532-438B-9C51-5579AB7D717A}|Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\pokedex-et-tu-bulbasaur\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E957ED-E532-438B-9C51-5579AB7D717A}|Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj|solutionrelative:pokedex-et-tu-bulbasaur\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC480C56-5A59-4739-943A-274226CCE993}|ShakespearePokedexAPI.Tests\\ShakespearePokedexAPI.Tests.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi.tests\\shakespearepokedexapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC480C56-5A59-4739-943A-274226CCE993}|ShakespearePokedexAPI.Tests\\ShakespearePokedexAPI.Tests.csproj|solutionrelative:shakespearepokedexapi.tests\\shakespearepokedexapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\shakespearepokedexapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA3FE379-8FED-4CD7-9DC4-9784916DF26C}|ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj|solutionrelative:shakespearepokedexapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patri\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E957ED-E532-438B-9C51-5579AB7D717A}|Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\pokedex-et-tu-bulbasaur\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46E957ED-E532-438B-9C51-5579AB7D717A}|Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj|solutionrelative:pokedex-et-tu-bulbasaur\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E957ED-E532-438B-9C51-5579AB7D717A}|Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\pokedex-et-tu-bulbasaur\\pokedex-et-tu-bulbasaur.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46E957ED-E532-438B-9C51-5579AB7D717A}|Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj|solutionrelative:pokedex-et-tu-bulbasaur\\pokedex-et-tu-bulbasaur.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E957ED-E532-438B-9C51-5579AB7D717A}|Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\pokedex-et-tu-bulbasaur\\pokemonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E957ED-E532-438B-9C51-5579AB7D717A}|Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj|solutionrelative:pokedex-et-tu-bulbasaur\\pokemonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E957ED-E532-438B-9C51-5579AB7D717A}|Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj|c:\\users\\patri\\source\\repos\\shakespearepokedexapi\\pokedex-et-tu-bulbasaur\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E957ED-E532-438B-9C51-5579AB7D717A}|Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj|solutionrelative:pokedex-et-tu-bulbasaur\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITranslationService.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Interfaces\\ITranslationService.cs",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI\\Interfaces\\ITranslationService.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Interfaces\\ITranslationService.cs",
+              "RelativeToolTip": "ShakespearePokedexAPI\\Interfaces\\ITranslationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:17:17.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PokeSpecies.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Models\\PokeSpecies.cs",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI\\Models\\PokeSpecies.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Models\\PokeSpecies.cs",
+              "RelativeToolTip": "ShakespearePokedexAPI\\Models\\PokeSpecies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:53:32.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PokemonService.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Services\\PokemonService.cs",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI\\Services\\PokemonService.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Services\\PokemonService.cs",
+              "RelativeToolTip": "ShakespearePokedexAPI\\Services\\PokemonService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:30:31.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TranslationService.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Services\\TranslationService.cs",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI\\Services\\TranslationService.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Services\\TranslationService.cs",
+              "RelativeToolTip": "ShakespearePokedexAPI\\Services\\TranslationService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:46:35.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\appsettings.json",
+              "RelativeToolTip": "ShakespearePokedexAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T15:18:40.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Dockerfile",
+              "RelativeToolTip": "ShakespearePokedexAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-14T15:12:55.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-14T15:18:42.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Program.cs",
+              "RelativeToolTip": "ShakespearePokedexAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:59:19.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShakespearePokedexAPI.http",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\ShakespearePokedexAPI.http",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI\\ShakespearePokedexAPI.http",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\ShakespearePokedexAPI.http",
+              "RelativeToolTip": "ShakespearePokedexAPI\\ShakespearePokedexAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-14T18:19:44.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokemonControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI.Tests\\Controllers\\PokemonControllerTests.cs",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI.Tests\\Controllers\\PokemonControllerTests.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI.Tests\\Controllers\\PokemonControllerTests.cs",
+              "RelativeToolTip": "ShakespearePokedexAPI.Tests\\Controllers\\PokemonControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:28:13.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPokemonService.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Interfaces\\IPokemonService.cs",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI\\Interfaces\\IPokemonService.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Interfaces\\IPokemonService.cs",
+              "RelativeToolTip": "ShakespearePokedexAPI\\Interfaces\\IPokemonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:17:00.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI\\Controllers\\PokemonController.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "ShakespearePokedexAPI\\Controllers\\PokemonController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:54:17.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ShakespearePokedexAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T12:39:45.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShakespearePokedexAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj",
+              "RelativeToolTip": "ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-15T13:03:40.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShakespearePokedexAPI",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj",
+              "RelativeToolTip": "ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-15T12:03:04.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\Pokedex-Et-Tu-Bulbasaur\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pokedex-Et-Tu-Bulbasaur\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\Pokedex-Et-Tu-Bulbasaur\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Pokedex-Et-Tu-Bulbasaur\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:33:31.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShakespearePokedexAPI.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI.Tests\\ShakespearePokedexAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI.Tests\\ShakespearePokedexAPI.Tests.csproj",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI.Tests\\ShakespearePokedexAPI.Tests.csproj",
+              "RelativeToolTip": "ShakespearePokedexAPI.Tests\\ShakespearePokedexAPI.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T13:25:03.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Pokedex-Et-Tu-Bulbasaur.csproj",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj",
+              "RelativeDocumentMoniker": "Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj",
+              "RelativeToolTip": "Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T13:25:53.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ShakespearePokedexAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\ShakespearePokedexAPI\\appsettings.Development.json",
+              "RelativeToolTip": "ShakespearePokedexAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T15:18:48.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\Pokedex-Et-Tu-Bulbasaur\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Pokedex-Et-Tu-Bulbasaur\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\Pokedex-Et-Tu-Bulbasaur\\MainWindow.xaml",
+              "RelativeToolTip": "Pokedex-Et-Tu-Bulbasaur\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-13T13:25:56.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\patri\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\patri\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\build\\Container.targets",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAwwNkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-14T14:55:47.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\Pokedex-Et-Tu-Bulbasaur\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Pokedex-Et-Tu-Bulbasaur\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\Pokedex-Et-Tu-Bulbasaur\\AssemblyInfo.cs",
+              "RelativeToolTip": "Pokedex-Et-Tu-Bulbasaur\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T11:54:47.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PokemonResponse.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\Pokedex-Et-Tu-Bulbasaur\\PokemonResponse.cs",
+              "RelativeDocumentMoniker": "Pokedex-Et-Tu-Bulbasaur\\PokemonResponse.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\ShakespearePokedexAPI\\Pokedex-Et-Tu-Bulbasaur\\PokemonResponse.cs",
+              "RelativeToolTip": "Pokedex-Et-Tu-Bulbasaur\\PokemonResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:28:19.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

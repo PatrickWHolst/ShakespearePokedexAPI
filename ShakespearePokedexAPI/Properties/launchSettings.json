@@ -1,0 +1,22 @@
+{
+  "profiles": {
+    "ShakespearePokedexAPI": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5010",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": false,
+      "applicationUrl": "http://+:8080",
+      "publishAllPorts": true,
+      "environmentVariables": {
+        "ASPNETCORE_HTTP_PORTS": "8080"
+      }
+    }
+  }
+}

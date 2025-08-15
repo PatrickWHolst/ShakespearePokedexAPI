@@ -1,0 +1,36 @@
+@ShakespearePokedexAPI_HostAddress = http://localhost:5010
+@ShakespearePokedexAPI_DockerHostAddress = http://localhost:8080
+
+
+
+GET {{ShakespearePokedexAPI_HostAddress}}/api/pokemon/25
+
+Accept: application/json
+###
+
+GET {{ShakespearePokedexAPI_HostAddress}}/api/pokemon/411
+
+Accept: application/json
+###
+
+GET {{ShakespearePokedexAPI_HostAddress}}/api/pokemon/rapidash
+
+Accept: application/json
+###
+
+
+### Dockerized API Requests
+GET {{ShakespearePokedexAPI_DockerHostAddress}}/api/pokemon/2
+
+Accept: application/json
+###
+
+GET {{ShakespearePokedexAPI_DockerHostAddress}}/api/pokemon/charmander
+
+Accept: application/json
+###
+
+GET {{ShakespearePokedexAPI_DockerHostAddress}}/api/pokemon/pikachu
+
+Accept: application/json
+###

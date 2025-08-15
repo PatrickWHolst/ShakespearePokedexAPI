@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ShakespearePokedexAPI\\ShakespearePokedexAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Pokedex-Et-Tu-Bulbasaur\\Pokedex-Et-Tu-Bulbasaur.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ShakespearePokedexAPI.Controllers.PokemonController",
+    "Method": "GetPokemonSpecies",
+    "RelativePath": "api/Pokemon/{nameOrId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nameOrId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
